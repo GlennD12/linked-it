@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "socialMedia": "Facebook",
+      "socialMediaLink": "https://facebook.com/example1",
+      "image": "https://example.com/image1.jpg"
+    },
+    {
+      "id": 2,
+      "socialMedia": "Twitter",
+      "socialMediaLink": "https://twitter.com/example2",
+      "image": "https://example.com/image2.jpg"
+    },
+    {
+      "id": 3,
+      "socialMedia": "Instagram",
+      "socialMediaLink": "https://instagram.com/example3",
+      "image": "https://example.com/image3.jpg"
+    },
+    {
+      "id": 4,
+      "socialMedia": "LinkedIn",
+      "socialMediaLink": "https://linkedin.com/in/example4",
+      "image": "https://example.com/image4.jpg"
+    },
+    {
+      "id": 5,
+      "socialMedia": "YouTube",
+      "socialMediaLink": "https://youtube.com/example5",
+      "image": "https://example.com/image5.jpg"
+    },
+    {
+      "id": 6,
+      "socialMedia": "TikTok",
+      "socialMediaLink": "https://tiktok.com/@example6",
+      "image": "https://example.com/image6.jpg"
+    },
+    {
+      "id": 7,
+      "socialMedia": "Pinterest",
+      "socialMediaLink": "https://pinterest.com/example7",
+      "image": "https://example.com/image7.jpg"
+    },
+    {
+      "id": 8,
+      "socialMedia": "Snapchat",
+      "socialMediaLink": "https://snapchat.com/add/example8",
+      "image": "https://example.com/image8.jpg"
+    },
+    {
+      "id": 9,
+      "socialMedia": "Reddit",
+      "socialMediaLink": "https://reddit.com/user/example9",
+      "image": "https://example.com/image9.jpg"
+    },
+    {
+      "id": 10,
+      "socialMedia": "WhatsApp",
+      "socialMediaLink": "https://wa.me/1234567890",
+      "image": "https://example.com/image10.jpg"
+    }
+  ]
+  
